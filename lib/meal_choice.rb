@@ -1,4 +1,6 @@
 # Your code here
 # For output purposes, use "puts" instead of "print" or "p"
 
-def Meal
+def meal_choice(veg1,veg2,protien="meat")
+  puts
+  
